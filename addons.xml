@@ -27,17 +27,17 @@
         </assets>
     </extension>
 </addon>
-<addon id="repo_vietmediaf_fork" name="VIETMEDIAF_FORK" version="0.0.2" provider-name="bioidaika">
+<addon id="repo_vietmediaf_fork" name="VIETMEDIAF_FORK" version="0.0.2" provider-name="uptoptop">
 	<extension point="xbmc.addon.repository" name="repo_vietmediaf_fork">
 		<dir>
-			<info compressed="false">https://bioidaika.github.io/addons.xml</info>
-			<checksum>https://bioidaika.github.io/addons.xml.md5</checksum>
-			<datadir zip="true">https://bioidaika.github.io/</datadir>
+			<info compressed="false">https://uptoptop.github.io/addons.xml</info>
+			<checksum>https://uptoptop.github.io/addons.xml.md5</checksum>
+			<datadir zip="true">https://uptoptop.github.io/</datadir>
 		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>VietmediaF Fork Repository</summary>
-		<description>Repository cho VietmediaF Fork by bioidaika</description>
+		<description>Repository cho VietmediaF Fork by uptoptop</description>
 		<disclaimer>repo_vietmediaf_fork</disclaimer>
 		<platform>all</platform>
 		<assets>
